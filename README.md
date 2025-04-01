@@ -12,7 +12,8 @@ This architecture includes:
 - **Nginx**: A reverse proxy that routes HTTPS traffic to Neo4j
 - **Certbot**: Automates SSL certificate issuance via Let's Encrypt
 
-![Architecture Diagram](neo4j_architecture.png)
+<img src="neo4j_architecture.png" alt="Architecture Diagram" width="100%">
+
 
 
 ---
